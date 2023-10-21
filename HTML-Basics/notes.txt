@@ -1,0 +1,4 @@
+Specificity:
+id(#) > class(.) > type(div) > universal/symbol (*, >, +)
+
+Symbols actually have no specificty.
