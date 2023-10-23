@@ -6,7 +6,7 @@
 ## Lessons Practice
 
 ### HTML-Foundations
-- html-boilerplate
+- [https://sd4483.github.io/TheOdinProject/HTML-Foundations/html-boilerplate/](html-boilerplate)
 - Lists
 - Links&Images
 ### CSS-Foundations
