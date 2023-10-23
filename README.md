@@ -1,7 +1,7 @@
 # The Odin Project
 
 ## Projects
-- Odin Recipes
+- [Odin Recipes](https://sd4483.github.io/odin-recipes/)
 
 ## Lessons Practice
 
@@ -10,11 +10,11 @@
 - Lists
 - Links&Images
 ### CSS-Foundations
-- css-methods
-- class-id-selectors
-- grouping-selectors
-- chaining-selectors
-- descendant-combinator
-- cascade-fix
-- margin-and-padding-1
-- marding-and-padding-2
+- [css-methods](https://sd4483.github.io/TheOdinProject/CSS-Foundations/css-methods/)
+- [class-id-selectors](https://sd4483.github.io/TheOdinProject/CSS-Foundations/class-id-selectors/)
+- [grouping-selectors](https://sd4483.github.io/TheOdinProject/CSS-Foundations/grouping-selectors/)
+- [chaining-selectors](https://sd4483.github.io/TheOdinProject/CSS-Foundations/chaining-selectors/)
+- [descendant-combinator](https://sd4483.github.io/TheOdinProject/CSS-Foundations/descendant-combinator/)
+- [cascade-fix](https://sd4483.github.io/TheOdinProject/CSS-Foundations/cascade-fix/)
+- [margin-and-padding-1](https://sd4483.github.io/TheOdinProject/CSS-Foundations/Block-and-Inline-1/)
+- [marding-and-padding-2](https://sd4483.github.io/TheOdinProject/CSS-Foundations/Block-and-Inline-2/)
