@@ -7,6 +7,7 @@
 - [html-boilerplate](https://sd4483.github.io/TheOdinProject/HTML-Foundations/html-boilerplate/)
 - [lists](https://sd4483.github.io/TheOdinProject/HTML-Foundations/Lists/)
 - [links-and-images](https://sd4483.github.io/TheOdinProject/HTML-Foundations/links-and-images/)
+
 ### CSS-Foundations
 - [css-methods](https://sd4483.github.io/TheOdinProject/CSS-Foundations/css-methods/)
 - [class-id-selectors](https://sd4483.github.io/TheOdinProject/CSS-Foundations/class-id-selectors/)
