@@ -1,5 +1,3 @@
-# The Odin Project
-
 ## Projects
 - [Odin Recipes](https://sd4483.github.io/odin-recipes/)
 
