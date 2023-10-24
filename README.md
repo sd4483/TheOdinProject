@@ -19,4 +19,4 @@
 - [marding-and-padding-2](https://sd4483.github.io/TheOdinProject/CSS-Foundations/Block-and-Inline-2/)
 
 ### Flexbox
-- [Flex-grow-shrink-and-axes](https://sd4483.github.io/Flexbox)
+- [Flex-grow-shrink-and-axes](https://sd4483.github.io/TheOdinProject/Flexbox)
