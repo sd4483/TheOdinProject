@@ -17,3 +17,6 @@
 - [cascade-fix](https://sd4483.github.io/TheOdinProject/CSS-Foundations/cascade-fix/)
 - [margin-and-padding-1](https://sd4483.github.io/TheOdinProject/CSS-Foundations/Block-and-Inline-1/)
 - [marding-and-padding-2](https://sd4483.github.io/TheOdinProject/CSS-Foundations/Block-and-Inline-2/)
+
+### Flexbox
+- [Flex-grow-shrink-and-axes](https://sd4483.github.io/Flexbox)
