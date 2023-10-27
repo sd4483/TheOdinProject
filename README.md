@@ -1,5 +1,6 @@
 ## Projects
 - [Odin Recipes](https://sd4483.github.io/odin-recipes/)
+- [Landing Page](https://sd4483.github.io/top-landing-page)
 
 ## Lessons Practice
 
