@@ -28,3 +28,6 @@
 - [05-flex-modal](https://sd4483.github.io/TheOdinProject/Flexbox/05-flex-modal)
 - [06-flex-layout](https://sd4483.github.io/TheOdinProject/Flexbox/06-flex-layout)
 - [07-flex-layout-2](https://sd4483.github.io/TheOdinProject/Flexbox/07-flex-layout-2)
+
+### JavaScript
+- [Simple Calendar (MDN Exercise from fundamental 02](https://sd4483.github.io/TheOdinProject/JavaScript/Exercises/simple-calendar.html)
