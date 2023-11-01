@@ -46,25 +46,19 @@
         current_month.innerHTML = selected_month;
 
         let num_days = 0;
-        
+
         switch(month.value){
           case 'february':
             num_days = 28
-            break;
-          case 'january':
-          case 'march':
-          case 'may':
-          case 'july':
-          case 'august':
-          case 'october':
-          case 'december':
-            num_days = 31
             break;
           case 'april':
           case 'june':
           case 'september':
           case 'november':
             num_days = 30
+            break;
+          default:
+            num_days = 31
             break;
         }
         
