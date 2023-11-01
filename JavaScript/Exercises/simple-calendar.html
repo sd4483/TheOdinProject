@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="main.css">
+    <title>Simple calendar example</title>
+  </head>
+  <body>
+    <label for="calendar-months">Select month: </label>
+    <select name="months" id="calendar-months">
+      <option value="">select month</option>
+      <option value="january">January</option>
+      <option value="february">February</option>
+      <option value="march">March</option>
+      <option value="april">April</option>
+      <option value="may">May</option>
+      <option value="june">June</option>
+      <option value="july">July</option>
+      <option value="august">August</option>
+      <option value="september">September</option>
+      <option value="october">October</option>
+      <option value="november">November</option>
+      <option value="december">December</option>
+    </select>
+
+    <h1 class="current-month"></h1>
+
+    <h2>Calendar</h2>
+    <ul class="calendar">
+
+    </ul>
+    <script>
+      const select_month = document.querySelector('#calendar-months');
+      let current_month = document.querySelector('.current-month');
+      const calendar = document.querySelector('.calendar');
+
+      select_month.addEventListener('change', () => createCalendar(select_month));
+
+      function createCalendar(month) {
+        let selected_month = month.options[month.selectedIndex].text;
+        console.log(selected_month);
+        current_month.textContent = selected_month;
+
+        let num_days = 0;
+        switch(month.value){
+          case 'february':
+            num_days = 28
+            break;
+          case 'january':
+          case 'march':
+          case 'may':
+          case 'july':
+          case 'august':
+          case 'october':
+          case 'december':
+            num_days = 31
+            break;
+          case 'april':
+          case 'june':
+          case 'september':
+          case 'november':
+            num_days = 30
+            break;
+        }
+        
+        calendar.innerHTML = '';
+
+        for (let i = 1; i <= num_days; i++) {
+          const listItem = document.createElement('li');
+          listItem.textContent = i;
+          calendar.append(listItem);
+        }
+      }
+    </script>
+  </body>
+</html>

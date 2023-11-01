@@ -1,0 +1,17 @@
+body {
+    font-family: system-ui;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 5px;
+}
+
+li {
+    background-color: blue;
+    color: white;
+    width: 150px;
+    padding: 5px;
+}
