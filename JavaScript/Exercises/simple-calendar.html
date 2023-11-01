@@ -45,7 +45,7 @@
         
         current_month.innerHTML = selected_month;
 
-        let num_days = 0;
+        let num_days = 31;
 
         switch(month.value){
           case 'february':
@@ -56,9 +56,6 @@
           case 'september':
           case 'november':
             num_days = 30
-            break;
-          default:
-            num_days = 31
             break;
         }
         
