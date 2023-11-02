@@ -18,5 +18,38 @@
 
         <h1>This is a heading</h1>
     </main>
+
+    <script>
+        const select_theme = document.getElementById("theme");
+        const body = document.querySelector("body");
+
+        function color_update(bgColor) {
+            switch (bgColor) {
+                case "black":
+                    body.style.backgroundColor = "black";
+                    body.style.color = "white";
+                    break;
+                case "purple":
+                    body.style.backgroundColor = "purple";
+                    body.style.color = "white";
+                    break;
+                case "yellow":
+                    body.style.backgroundColor = "yellow";
+                    body.style.color = "black";
+                    break;
+                case "psychedelic":
+                    body.style.backgroundColor = "purple";
+                    body.style.color = "yellow";
+                    break;
+                default:
+                    body.style.backgroundColor = "white";
+                    body.style.color = "black";
+                    break;
+            }
+        }
+
+        select_theme.addEventListener("change", () => color_update(select_theme.value));
+        
+    </script>
 </body>
 </html>
