@@ -30,4 +30,4 @@
 - [07-flex-layout-2](https://sd4483.github.io/TheOdinProject/Flexbox/07-flex-layout-2)
 
 ### JavaScript
-- [Simple Calendar (MDN Exercise from fundamental 02)](https://sd4483.github.io/TheOdinProject/JavaScript/Exercises/simple-calendar.html)
+- [Simple Calendar (MDN Exercise from fundamental 02)](https://sd4483.github.io/TheOdinProject/JavaScript/Exercises/Simple-Calendar)
